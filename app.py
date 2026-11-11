@@ -51,7 +51,7 @@ display_df = pd.DataFrame({
     "Company Location": [company_location],
     "Company Size": [company_size],
 })
-st.write("### 🔎 Input Data")
+st.write("🔎 Input Data")
 st.dataframe(display_df)
 
 # Encode Inputs
