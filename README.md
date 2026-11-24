@@ -1,7 +1,7 @@
 
 # 💰 Salary Prediction App
 
-**Live Demo:** [Salary Predictor](https://employee-salarie-predictor.streamlit.app/)
+**Live Demo:** [Salary Predictor](https://salary-analyzer.streamlit.app/)
 
 This is a Machine Learning web application designed to predict the estimated salary of data and tech professionals based on various parameters such as experience level, job title, company location, and company size.
 
